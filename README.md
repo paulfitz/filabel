@@ -18,7 +18,7 @@ filabel list --json
 
 Then from code:
 
-```
+```py
 from filabel import FileLabel
 
 fl = FileLabel()
